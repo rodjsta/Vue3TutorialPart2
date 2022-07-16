@@ -2,7 +2,7 @@
 This project repo was created for the `Vue 3: Step By Step` series on Laracasts [here](https://laracasts.com/series/learn-vue-3-step-by-step).
 
 Note: this is only the **second** part of the series.
-# Vue3TutorialPart2
+## Vue3TutorialPart2
 
 This template should help get you started developing with Vue 3 in Vite.
 
